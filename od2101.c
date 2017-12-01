@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @wangzonghao1988
- Sign out
- Unwatch 1
- Fork 1 wangzonghao1988/od210x-driver
-forked from gechunming/od210x-driver
- Code  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathod210x-driver/od2101.c
-0433eb7  on 27 Mar 2013
-@gechunming gechunming od2101 i2c转串口驱动
-1 contributor
-RawBlameHistory     
-632 lines (547 sloc)  15.2 KB
 /*
  * OD2101 I2C转串口驱动
  */
@@ -648,15 +629,3 @@ module_exit(od2101_exit);
 MODULE_AUTHOR("GZ Evision");
 MODULE_DESCRIPTION("I2C To UART driver");
 MODULE_LICENSE("GPL");
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
